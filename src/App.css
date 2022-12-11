@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.card {
+  padding: 15px;
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+}
+
+label {
+  margin: 15px 0;
+}
+
+input {
+  border-radius: 10px;
+  min-height: 30px;
+  max-width: 50px;
+  text-align: center;
+}
+
+.read-the-docs {
+  color: #888;
+}
